@@ -22,3 +22,8 @@ i)      Users can read all the posts.
 ii)     To stay connected with system they could subscribe.
 iii)    Can add their favourite posts.
 iv)     Users also put their comments on particular posts.
+
+Used Libraries:
+I have used two libraries here..
+i)  Toastr: toastr is a Javascript library for showing notification.
+ii) Intervention Image: Intervention Image is an open source PHP image handling and manipulation library
