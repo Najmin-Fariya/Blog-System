@@ -6,7 +6,7 @@ A blog (shortening of “weblog”) is an online journal or informational websit
 This project is build with Laravel Framework(5.7).
 
 Features:
-Addmin:
+Admin:
 i)     There will be one super-admin, he will manage all kinds of posts, subscribers and also authors.
 ii)    Admin can add and delete authors.
 iii)   Only admin can add category and tag.
